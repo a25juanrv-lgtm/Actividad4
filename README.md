@@ -23,3 +23,8 @@ Para comprobar el estado de un servicio o reiniciarlo en el sistema, utiliza los
 ```bash
 systemctl status nombre-servicio
 sudo systemctl restart nombre-servicio
+
+## Información del proyecto
+Esta documentación se ha elaborado utilizando Markdown.
+El control de versiones se realiza mediante Git
+y el repositorio remoto se encuentra alojado en GitHub.
