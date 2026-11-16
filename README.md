@@ -7,3 +7,13 @@ sobre administración de sistemas Linux.
 Afondamento · 2.º ASIR Página 2
 - Redes
 - Servicios
+## Comandos útiles
+Para consultar la configuración de red:
+```bash
+ip addr
+```
+Para comprobar la conectividad:
+```bash
+ping 8.8.8.8
+```
+
